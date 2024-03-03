@@ -1,5 +1,8 @@
 # PROJETO DE FORMULÁRIO DE CADASTRO (💾)
 
+![FireShot Capture 027 - Formulário de Cadastro - gabrielucasantos github io](https://github.com/gabrielucasantos/formulario-de-cadastro/assets/132011614/15a344e9-1497-4687-8752-c35fc75b1b3a)
+[Live Demo](https://gabrielucasantos.github.io/formulario-de-cadastro/)
+
 **Objetivo:**
 
 • Criar formulário de cadastro e tela de login com HTML, CSS e JavaScript.
@@ -83,6 +86,3 @@
 • Integrar o login com o sistema de autenticação do seu site.
 
 • Aprimorar experiência do usuário com animações e interações.
-
-![FireShot Capture 027 - Formulário de Cadastro - gabrielucasantos github io](https://github.com/gabrielucasantos/formulario-de-cadastro/assets/132011614/15a344e9-1497-4687-8752-c35fc75b1b3a)
-[Live Demo](https://gabrielucasantos.github.io/formulario-de-cadastro/)
